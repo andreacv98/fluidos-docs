@@ -21,4 +21,4 @@ The **Local Resource Manager** (LRM) is the component in charge of this task **(
 Since the Flavor is a CR, it can be created, edited, and deleted by a cluster admin (2). The Flavor CRD is defined in the `flavor-crd.yaml` file.
 
 ---
-NEXT STEP: [Step 2: Resource Selection](02_intent_creation.md)
+NEXT STEP: [Step 2: Resource Selection](./02_intent_creation.md)

@@ -35,4 +35,4 @@ In case of an Intent of type:
 - Kubernetes deployment: the plugin will send it to the native kubernetes and the native environment will take care of the deployment (3c).
 
 ---
-PREVIOUS STEP: [Step 1: Resource Discovery](01_resource_detection.md) | NEXT STEP: [Step 3: Intent Creation](03_intent_creation.md)
+PREVIOUS STEP: [Step 1: Resource Discovery](./01_resource_detection.md) | NEXT STEP: [Step 3: Model Retrieval](./03_model_retrieving.md)

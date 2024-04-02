@@ -11,4 +11,4 @@ The Gateway determines which flavors are available and suitable looking at the A
 The set of flavors suitable to the previous request is sent back to the consumer through the Gateway (3).
 
 ---
-PREVIOUS STEP: [Step 6: Discovery](./06_discovery.md) | NEXT STEP: [Step 8: Flavor retrieve - Consumer side ](./08_flavor_retrieve_consumer.md)
+PREVIOUS STEP: [Step 6: Discovery](./06_discovery.md) | NEXT STEP: [Step 8: Flavor retrieve - Consumer side](./08_flavor_retrieve_consumer.md)

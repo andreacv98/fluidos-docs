@@ -11,4 +11,4 @@ The Discovery Manager will contact all the FLUIDOS Nodes using the **Gateway** (
 The **Gateway** is a component acting on the consumer side as a *REAR client*. Details of the REAR protocol and exchanged messages are not reported here. The Gateway will contact the FLUIDOS Nodes to ask for (all/suitable) flavors (3).
 
 ---
-PREVIOUS STEP: [Step 5: Solver Creation](./05_solver_creation.md) | NEXT STEP: [Step 7: Flavor retrieve (Provider side)](./07_flavor_retrieve_provider.md)
+PREVIOUS STEP: [Step 5: Solver Creation](./05_solver_creation.md) | NEXT STEP: [Step 7: Flavor retrieve - Provider side](./07_flavor_retrieve_provider.md)

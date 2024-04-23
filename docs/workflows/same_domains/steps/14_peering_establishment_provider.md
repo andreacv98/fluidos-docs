@@ -1,5 +1,7 @@
 # Step 14: Peering Establishment - Provider side
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 14 flowchart](../../../images/workflows/steps/Workflow-14-PeeringEstablishment(Provider).drawio.png)
 
 The provider FLUIDOS Node, through the **Liqo** module, receives the request to establish a peering with the consumer (1).

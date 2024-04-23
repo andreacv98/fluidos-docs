@@ -1,5 +1,9 @@
 # Step 7: Flavor Retrieve - Provider side
 
+&#8617; [Index](../../two_nodes.md)
+
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 7 flowchart](../../../images/workflows/steps/Workflow-07-FlavorsRetrieving(Provider).drawio.png)
 
 The remotes FLUIDOS Nodes will receive the request for listing flavors through the REAR Protocol. These FLUIDOS Nodes are providers.

@@ -1,5 +1,7 @@
 # Step 13: Peering Establishment - Consumer side
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 13 flowchart](../../../images/workflows/steps/Workflow-13-PeeringEstablishment.drawio.png)
 
 The Gateway on the consumer receives the **Contract** from the provider (1).

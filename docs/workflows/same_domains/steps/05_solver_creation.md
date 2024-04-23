@@ -1,5 +1,7 @@
 # Step 5: Solver Creation
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 5 flowchart](../../../images/workflows/steps/Workflow-05-SolverCreation.drawio.png)
 
 In this step, the FLUIDOS Node is triggered by the meta-orchestrator through the Solver CR.

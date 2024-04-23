@@ -1,5 +1,7 @@
 # Step 6: Node Discovery and Remote Nodes Contact
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 6 flowchart](../../../images/workflows/steps/Workflow-06-Discovery.drawio.png)
 
 The discovery phase is started by the Solver Controller triggering the **Discovery Manager** (1). Essentially, the Discovery Manager is responsible for contacting all the previously known FLUIDOS Nodes.

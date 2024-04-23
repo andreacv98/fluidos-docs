@@ -1,5 +1,7 @@
 # Step 4: Determine Required Resources
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 4 flowchart](../../../images/workflows/steps/Workflow-04-DetermingResources.drawio.png)
 
 Once the meta-orchestrator has chosen the model, it is time to determine the *resources* required to satisfy the user's intent (1).

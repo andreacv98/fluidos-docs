@@ -1,5 +1,7 @@
 # Step 1: Resource Discovery and Creation
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 1 flowchart](../../../images/workflows/steps/Workflow-01-ResourceDetection.drawio.png)
 
 When the FLUIDOS Node starts, it will first look for the resources that are available in the cluster. The resources can be any type of Flavor supported (e.g. Kubernetes Slice, Virtual Machines, etc). Once found they are stored in the cluster as instances of the Flavor Custom Resource Definition (CRD).

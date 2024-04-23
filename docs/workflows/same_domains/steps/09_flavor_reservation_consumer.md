@@ -1,5 +1,7 @@
 # Step 9: Flavor Reservation - Consumer side
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 9 flowchart](../../../images/workflows/steps/Workflow-09-FlavorReservation.drawio.png)
 
 The FLUIDOS Meta-Orchestrator checks when the *discovery phase* is solved. This status can be checked by the previously custom resource it created, the Solver. This means that now there are compatible PeeringCandidates in the cluster that can be used, therefore the FLUIDOS Meta-Orchestrator request to *reserve* all the compatible ones (1).

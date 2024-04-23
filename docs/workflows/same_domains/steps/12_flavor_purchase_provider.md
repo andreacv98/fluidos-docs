@@ -1,5 +1,7 @@
 # Step 12: Flavor Purchase - Provider side
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 12 flowchart](../../../images/workflows/steps/Workflow-12-FlavorPurchase(Provider).drawio.png)
 
 The Gateway on the provider receives the request to purchase a flavor from the consumer, through the REAR protocol (1).

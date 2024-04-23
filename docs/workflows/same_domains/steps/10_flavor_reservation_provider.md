@@ -1,5 +1,7 @@
 # Step 10: Flavor Reservation - Provider side
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 10 flowchart](../../../images/workflows/steps/Workflow-10-FlavorReservation(Provider).drawio.png)
 
 The provider FLUIDOS Node receives the request to reserve the specific Flavor through the Gateway and the REAR protocol (1).

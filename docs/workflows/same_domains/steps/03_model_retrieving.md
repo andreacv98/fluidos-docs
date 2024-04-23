@@ -1,5 +1,7 @@
 # Step 3: Retrieve the Meta-orchestrator Model
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 3 flowchart](../../../images/workflows/steps/Workflow-03-ModelRetrieving.drawio.png)
 
 Once the intent is extracted, the **model selection** is triggered (2).

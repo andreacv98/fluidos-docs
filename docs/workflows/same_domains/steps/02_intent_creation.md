@@ -1,4 +1,6 @@
-# Step 2: Resource Discovery and Creation
+# Step 2: Intent Creation
+
+&#8617; [Index](../../two_nodes.md)
 
 ![Step 2 flowchart](../../../images/workflows/steps/Workflow-02-IntentCreation.drawio.png)
 

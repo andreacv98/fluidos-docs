@@ -1,5 +1,7 @@
 # Step 11: Flavor Purchase - Consumer side
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 11 flowchart](../../../images/workflows/steps/Workflow-11-FlavorPurchase.drawio.png)
 
 The FLUIDOS Meta-Orchestrator decides which specific Flavor and related PeeringCandidate to buy. This decision is based on the logic of the model chosen before ([Step 3: Retrieve the Meta-orchestrator Model](./03_model_retrieving.md)) and the metrics gathered by the flavors. Therefore a specific PeeringCandidate is set to be bought by the meta-orchestrator (1).

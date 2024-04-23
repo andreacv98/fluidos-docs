@@ -1,5 +1,7 @@
 # Step 8: Flavor Retrieve - Consumer side
 
+&#8617; [Index](../../two_nodes.md)
+
 ![Step 8 flowchart](../../../images/workflows/steps/Workflow-08-FlavorsRetrieving(Consumer).drawio.png)
 
 The consumer FLUIDOS Node receives the list of flavors suitable for the request it previously made. The list is received through the Gateway (1).
